@@ -1,0 +1,17 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanjana",
+  "license": "ISC",
+  "dependencies": {
+    "calculator": "^0.1.12",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "mssql": "^8.0.2"
+  }
+}
